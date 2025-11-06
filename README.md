@@ -46,7 +46,7 @@ Currently, I’m building and studying systems that merge **streaming data**, **
 * Built REST APIs for real-time inventory KPIs (Spring Boot + Redis cache)
 * Reduced order processing latency from 4 hours to seconds
 
-### 🔹 [Ubisoft Data Infrastructure](#)
+### 🔹 Ubisoft Data Infrastructure
 
 > **High-volume distributed pipeline for gameplay telemetry**
 
